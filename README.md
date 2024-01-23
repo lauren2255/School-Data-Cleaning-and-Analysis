@@ -1,6 +1,6 @@
 # pandas-challenge
 
-School data was cleaned, analyzed, presented according to the following workflow:
+School data was cleaned, examined, and analyzed, according to the following workflow:
 
 # Project Instructions
 
