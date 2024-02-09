@@ -1,4 +1,4 @@
-# pandas-challenge
+# School Data Cleaning and Analysis
 
 School data was cleaned, examined, and analyzed according to the following workflow:
 
